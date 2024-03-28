@@ -1,0 +1,9 @@
+{
+  "accentColor": "#784cf0",
+  "interfaceFontFamily": "Helvetica",
+  "textFontFamily": "American Typewriter",
+  "baseFontSize": 18,
+  "translucency": false,
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox"
+}

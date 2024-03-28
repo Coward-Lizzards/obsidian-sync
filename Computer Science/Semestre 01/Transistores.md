@@ -1,0 +1,5 @@
+- Nao exigiam tempo de pre-aquecimento
+- Consumiam menos energia
+- Muito menores que as [[Válvulas Eletrônicas]]
+- geravam menos calor
+- Mais rápidos e comfiáveis
