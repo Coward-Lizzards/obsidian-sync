@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b7d2f6efee24af51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semestre 01/ARPANET.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "73df5c234b8a17c0",
             "type": "leaf",
             "state": {
@@ -32,15 +20,40 @@
             }
           },
           {
+            "id": "30c87bb95b9c20f3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-03-19 16.00.35.excalidraw.png"
+              }
+            }
+          },
+          {
             "id": "b5673831608a6d87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 01/Arquitetura de Computadores/Estrutura basica do computador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af610d498bcb49ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semestre 01/Arquitetura de Computadores/História do computador.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Semestre 01/Interacao Humano Computador (IHC)/Dinamica com Design Thinking.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -122,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Semestre 01/Interacao Humano Computador (IHC)/Dinamica com Design Thinking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Semestre 01/Interacao Humano Computador (IHC)/Dinamica com Design Thinking.md"
+              }
             }
           }
         ]
@@ -162,39 +179,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b5673831608a6d87",
+  "active": "73df5c234b8a17c0",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-03-19 16.00.35.excalidraw.png",
+    "Semestre 01/Interacao Humano Computador (IHC)/Dinamica com Design Thinking.md",
+    "Semestre 01/Arquitetura de Computadores/História do computador.md",
+    "Semestre 01/Arquitetura de Computadores/Estrutura basica do computador.md",
+    "Semestre 01/Arquitetura de Computadores/Unidades de Medida de Armazenamento na Informática.md",
+    "Semestre 01/Sistema Binário.md",
     "Excalidraw/Drawing 2024-03-19 16.00.35.excalidraw.md",
     "Excalidraw/Drawing 2024-03-19 09.51.17.excalidraw.md",
+    "Semestre 01/ARPANET.md",
+    "Semestre 01/Blaise Pascal.md",
+    "Semestre 01/CPU.md",
+    "Semestre 01/Fita Magnética.md",
+    "Semestre 01/Distribuicao de De Morgan.md",
+    "World Wide Web Consortium (W3C).md",
+    "World Wide Web.md",
+    "Sistema Octal.md",
+    "Sistema Hexadecimal.md",
     "Semestre 01/Tim Berners Lee.md",
     "Semestre 01/TCP IP.md",
     "Semestre 01/FTP (File Transfer Protocol).md",
     "Semestre 01/Redes de Computadores/Redes.md",
-    "World Wide Web Consortium (W3C).md",
     "Semestre 01/HTTP.md",
-    "World Wide Web.md",
     "Semestre 01/Redes de Computadores/Fundamentos de Redes de Computadores.md",
-    "Semestre 01/Arquitetura de Computadores/Estrutura basica do computador.md",
-    "Semestre 01/Arquitetura de Computadores/História do computador.md",
-    "Semestre 01/Arquitetura de Computadores/Unidades de Medida de Armazenamento na Informática.md",
     "Semestre 01/Lógica Matemática/Álgebra de Boole.md",
     "Semestre 01/Lógica Matemática/Operacoes lógicas, Tabela Verdade e Equivalencias.md",
-    "Semestre 01/Interacao Humano Computador (IHC)/Dinamica com Design Thinking.md",
     "Semestre 01/Lógica Matemática/Sistemas Numéricos.md",
-    "Sistema Hexadecimal.md",
-    "Sistema Octal.md",
-    "Semestre 01/Sistema Decimal.md",
-    "Semestre 01/Sistema Binário.md",
-    "Semestre 01/Base 2.md",
-    "Semestre 01/Introdução à Programação/Lógica de Programação.md",
-    "Excalidraw/Untitled.md",
-    "Excalidraw/Drawing 2024-03-12 18.00.57.excalidraw.md",
     "Semestre 01/Introdução à Programação",
-    "Semestre 01/Bicondicional.md",
     "TCP",
     "Excalidraw",
     "Semestre 01/Interacao Humano Computador (IHC)",
