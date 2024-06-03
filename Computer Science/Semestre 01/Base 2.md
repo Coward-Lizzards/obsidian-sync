@@ -1,2 +1,5 @@
 [[Sistema Binário]]
 
+
+
+

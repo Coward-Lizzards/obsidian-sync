@@ -1,4 +1,4 @@
 Componentes físicos que fazem um computador
 		**Pecas**
-		- [[CPU]]
+		- [[Semestre 01/CPU]]
 		- 
